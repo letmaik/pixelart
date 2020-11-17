@@ -1,3 +1,5 @@
 # pixelart
 
-Currently a home for all my pixel art sprites...
+A home for all my pixel art sprites...
+
+[Gallery](https://github.com/letmaik/pixelart/tree/exported)
