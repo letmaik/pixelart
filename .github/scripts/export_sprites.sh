@@ -19,7 +19,7 @@ for ((i=${#paths[@]}-1; i>=0; i--)); do
     file="${filename%.*}"
     
     $ASEPRITE --batch $path \
-        --scale 5 \
+        --scale 4 \
         --sheet "exported/img/${file}.png" \
         --sheet-type horizontal
     
